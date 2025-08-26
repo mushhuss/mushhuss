@@ -1,5 +1,5 @@
 # 💫 About Me:  
-🌱 Interested in **full-stack development** and **infrastructure engineering**  
+🌱 Interested in **full-stack development** and **infraDev**  
 🚀 Always learning and building new projects  
 
 ---
