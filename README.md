@@ -6,7 +6,7 @@
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muslimhussaini)  
-[!(https://img.shields.io/badge/Email-hussainimuslim2%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussainimuslim2@gmail.com)  
+[![Gmail](https://img.shields.io/badge/-?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussainimuslim2@gmail.com)  
 
 ---
 
