@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💫 About Me:
+👨‍💻 Passionate about building impactful software and solving real-world problems through tech  
+🌱 Currently learning **React with TypeScript** and expanding my skills in **Flask + AI/ML**  
+💡 Interested in **Software Engineering, AI for Health & Sports, and Scalable Web Applications**  
+🚀 Hackathon Builder — worked on projects like **GreenByte** (AI food analyzer) and **HandsUp** (AI boxing trainer)  
 
-<!--
-**mushhuss/mushhuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌐 Socials:
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
+[GitHub](https://github.com/YOUR-USERNAME)  
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+**Languages:** C++ | Python | JavaScript | TypeScript | HTML5 | CSS3  
+**Frameworks & Libraries:** React | Flask | TailwindCSS | Bootstrap | MediaPipe | PyTorch | TensorFlow  
+**Databases:** PostgreSQL | SQLite  
+**Cloud & Deployment:** AWS | Google Cloud | Docker | Vercel | GitHub Pages | Heroku  
+**Tools:** Postman | NumPy | Pandas | Matplotlib | Kubernetes | Terraform  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
